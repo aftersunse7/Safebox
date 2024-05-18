@@ -1,5 +1,4 @@
-<link rel="stylesheet" href="./readmeConfig/styles/styles.css">
-<div class="first-container">
+<div>
     <img src="./readmeConfig/media/svg/arduino-icon.svg"></img>
     <h1>Caja Fuerte</h1>
     <p>Proyecto desarrollado en <a href="https://www.arduino.cc"> Arduino </a></p>
@@ -17,7 +16,7 @@
 - Cables dupont hembra-macho - Cantidad: <b>11</b>
 - Cables dupont macho-macho - Cantidad: <b>10</b>
 
-<div class="second-container">
+<div>
     <h2>Tabla de utilidad de teclas</h2>
     <table>
         <thead>
@@ -55,7 +54,7 @@
     </table>
 </div>
 
-<div class="third-container">
+<div>
     <h2>Tabla acciones de leds</h2>
     <table>
         <thead>
@@ -95,22 +94,22 @@
     </table>
 </div>
 
-<div class="fourth-container">
-    <div class="note">
+<div>
+    <div>
         <h3>NOTA</h3>
-        <p>Se opto por mostrar un diagrama de conexion individual del sensor KY-017, ya que dentro de la plataforma de Wokwi no se encuentra dicho sensor, sin embargo, se simula el funcionamiento de este por medio de un "switch" el cual cumple con la funcion de suplir los dos estados que tendria el sensor original.</p>
+        <p><b>Se opto por mostrar un diagrama de conexion individual del sensor KY-017, ya que dentro de la plataforma de Wokwi no se encuentra dicho sensor, sin embargo, se simula el funcionamiento de este por medio de un "switch" el cual cumple con la funcion de suplir los dos estados que tendria el sensor original.</b></p>
     </div>
-    <div class="first-image">
+    <div>
         <img src="./readmeConfig/media/webp/general-connection-diagram.webp"></img>
         <p>Diagrama de conexion general - Proyecto completo en <a href="https://wokwi.com/projects/392372647969623041">Wokwi</a></p>
     </div>
-    <div class="second-image">
+    <div>
         <img src="./readmeConfig/media/webp/connection-diagram-KY017.webp"></img>
         <p>Diagrama de conexion Sensor de inclinacion KY-017 - Fuente en <a href="https://arduinomodules.info/ky-017-mercury-switch-module/">ArduinoModulesInfo</a></p>
     </div>
 </div>
 
-<div class="fifth-container">
+<div>
     <h3>Fotografias:</h3>
     <img src="./readmeConfig/media/webp/firstview.webp"></img>
     <img src="./readmeConfig/media/webp/secondview.webp"></img>
